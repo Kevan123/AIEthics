@@ -113,5 +113,4 @@ The simulation uses a three-judge council, stylised dependence regimes, equal ac
 Citation details will be added after peer review.
 
 ## Licence
-
-[Choose a licence, for example MIT, and add a LICENSE file.]
+Not applicable
